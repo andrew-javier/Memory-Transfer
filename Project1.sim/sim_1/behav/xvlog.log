@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/CountA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CountA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/CountB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CountB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/DP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/FlipFlop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FlipFlop
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/TopLevel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TopLevel
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comp
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/controlunit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controlunit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Downloads/memA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Downloads/memB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/subtractor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Subtractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.srcs/sources_1/new/TLTB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TLTB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/andre/Project1/Project1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
